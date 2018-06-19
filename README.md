@@ -3,6 +3,7 @@ Calculates a path between two non-negative integers by adding two specified inte
 
 # Why was this developed
 Path Finder was originally  created as a tool to solve this [riddle,](https://www.youtube.com/watch?v=YeMVoJKn1Tg) but has been generalized.
+
 Riddle TL:DW
 Starting from 0, get the numbers 2, 10, 14 by adding 5 or 7 and square rooting.
 You are not allowed to:
